@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BellDaPeppr (Trans, She/They)
+- 🐧 I’m interested in [Linux](https://gitlab.archlinux.org/archlinux)
+- 🐧🐍 I’m currently learning Linux and looking to learn coding (Python for now)
